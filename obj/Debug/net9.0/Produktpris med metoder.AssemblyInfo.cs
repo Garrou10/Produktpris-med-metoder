@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Produktpris med metoder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9374ae89880834ab5bc4cf61c7198949cc3482c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Produktpris med metoder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Produktpris med metoder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
