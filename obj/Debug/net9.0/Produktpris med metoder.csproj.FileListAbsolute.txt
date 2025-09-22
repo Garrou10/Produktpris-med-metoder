@@ -1,0 +1,14 @@
+c:\Users\balac\Desktop\Produktpris med metoder\bin\Debug\net9.0\Produktpris med metoder.exe
+C:\Users\balac\Desktop\Produktpris med metoder\bin\Debug\net9.0\Produktpris med metoder.deps.json
+C:\Users\balac\Desktop\Produktpris med metoder\bin\Debug\net9.0\Produktpris med metoder.runtimeconfig.json
+c:\Users\balac\Desktop\Produktpris med metoder\bin\Debug\net9.0\Produktpris med metoder.dll
+c:\Users\balac\Desktop\Produktpris med metoder\bin\Debug\net9.0\Produktpris med metoder.pdb
+c:\Users\balac\Desktop\Produktpris med metoder\obj\Debug\net9.0\Produktpris med metoder.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\balac\Desktop\Produktpris med metoder\obj\Debug\net9.0\Produktpris med metoder.AssemblyInfoInputs.cache
+c:\Users\balac\Desktop\Produktpris med metoder\obj\Debug\net9.0\Produktpris med metoder.AssemblyInfo.cs
+c:\Users\balac\Desktop\Produktpris med metoder\obj\Debug\net9.0\Produktpris med metoder.csproj.CoreCompileInputs.cache
+c:\Users\balac\Desktop\Produktpris med metoder\obj\Debug\net9.0\Produktpris med metoder.dll
+c:\Users\balac\Desktop\Produktpris med metoder\obj\Debug\net9.0\refint\Produktpris med metoder.dll
+c:\Users\balac\Desktop\Produktpris med metoder\obj\Debug\net9.0\Produktpris med metoder.pdb
+C:\Users\balac\Desktop\Produktpris med metoder\obj\Debug\net9.0\Produktpris med metoder.genruntimeconfig.cache
+C:\Users\balac\Desktop\Produktpris med metoder\obj\Debug\net9.0\ref\Produktpris med metoder.dll
